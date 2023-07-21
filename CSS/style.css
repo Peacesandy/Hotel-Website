@@ -55,6 +55,11 @@ p{
     color: #333;
 }
 
+.btn-light{
+    background: #f4f4f4;
+    color: #333;
+}
+
 /*Navbar*/
 #navbar{
     background: #333;
