@@ -142,7 +142,7 @@ p{
 #home-info .info-img{
     float: left;
     width: 50%;
-    background: url('../Images/relaxationspot.jpg') no-repeat;
+    background: url('../Images/Restaurantpart.jpg') no-repeat;
     min-height: 100%;
 }
 
@@ -155,4 +155,6 @@ p{
     overflow: hidden;
 }
 
-
+#home-info .info-content p {
+    padding-bottom: 30px;
+}
